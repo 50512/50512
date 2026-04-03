@@ -1,3 +1,3 @@
 # 50512
 
-Estudiante de ingeniería informática construyendo su conocimiento.
+Soy un estudiante de ingeniería informática que le gusta trastear con diferentes tecnologías.
